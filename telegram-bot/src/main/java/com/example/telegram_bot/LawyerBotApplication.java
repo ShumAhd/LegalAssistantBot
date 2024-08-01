@@ -9,5 +9,4 @@ public class LawyerBotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LawyerBotApplication.class, args);
 	}
-
 }
