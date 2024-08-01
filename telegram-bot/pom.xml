@@ -60,6 +60,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- Telegram Bots dependencies -->
+		<dependency>
+			<groupId>org.telegram</groupId>
+			<artifactId>telegrambots-spring-boot-starter</artifactId>
+			<version>6.1.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
