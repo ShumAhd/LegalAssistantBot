@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TelegramBotApplication {
+public class LawyerBotApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TelegramBotApplication.class, args);
+		SpringApplication.run(LawyerBotApplication.class, args);
 	}
 
 }
