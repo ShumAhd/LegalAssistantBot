@@ -5,10 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/telegram-bot/pom.xml" />
+        <option value="$PROJECT_DIR$/lawyerbot/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
